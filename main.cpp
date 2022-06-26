@@ -1,18 +1,6 @@
-/*
-#include <cstdint>
-#include <iostream>
-#include <cstdint>
-#include <vector>
-#include "Block.h"
 
-using namespace std; 
-
-int main(int argc, char** argv) {
-	return 0;
-}
-*/
 #include "BlockChain.h"
-
+#include "Bloque.h"
 int main()
 {
     BlockChain bChain = BlockChain();
